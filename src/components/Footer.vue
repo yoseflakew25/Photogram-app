@@ -1,7 +1,7 @@
 <template>
   <footer class="col align-center justify-end">
-    <div>This app made with<span>♥</span>by Emre Güney</div>
-    <a href="https://github.com/eeguney/vue-photogram-app" target="blank"
+    <div>This app made with<span>♥</span>by Yosef Lakew</div>
+    <a href="https://github.com/YOSEF-CODER" target="blank"
       ><font-awesome-icon :icon="['fab', 'fa-github']" size="2x"
     /></a>
   </footer>
