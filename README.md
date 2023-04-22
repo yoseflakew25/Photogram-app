@@ -3,6 +3,7 @@
 A photo gallery app using Vue.js + Vue Router + Vuex
 
 ![enter image description here](https://github.com/YOSEF-CODER/Photogram-app/blob/master/image_2023-03-18_16-35-10.png)
+![enter image description here](https://github.com/YOSEF-CODER/Photogram-app/blob/master/Capture.PNG)
 
 ## Features:
 
